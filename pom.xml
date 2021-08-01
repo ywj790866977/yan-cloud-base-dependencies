@@ -26,6 +26,7 @@
         <okhttp.version>4.9.1</okhttp.version>
         <hikarCP.version>3.4.5</hikarCP.version>
         <kryo.version>4.0.2</kryo.version>
+        <orika.version>1.5.4</orika.version>
     </properties>
 
     <dependencyManagement>
