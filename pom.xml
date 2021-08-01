@@ -102,6 +102,12 @@
                 <artifactId>HikariCP</artifactId>
                 <version>${hikarCP.version}</version>
             </dependency>
+            <!-- 序列化-->
+            <dependency>
+                <groupId>ma.glasnost.orika</groupId>
+                <artifactId>orika-core</artifactId>
+                <version>${orika.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
